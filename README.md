@@ -1,2 +1,2 @@
 # failtol
-Fail Tolerant web application
+CMPT 474 Web Sofware Final Project: Create a fail-tolerant web application
